@@ -1,4 +1,5 @@
 # Jrs Orbit Camera: Free & Open-Source Third-Person Vehicle Camera for Unity
+![free-third-person-vehicle-rotatable-orbit-camera-script-unity](https://github.com/user-attachments/assets/1c7cbd7c-3db3-4d0c-b8ea-b3c338f4659a)
 
 Welcome to the ultimate guide for using the **JrsOrbitCamera**, a free and open-source third-person vehicle camera script for Unity. Whether you're a beginner or an experienced developer, this guide will walk you through everything you need to know about this powerful tool.
 
